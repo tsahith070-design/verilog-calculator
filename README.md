@@ -1,5 +1,5 @@
 # verilog-calculator
-# 8-bit ALU Based Calculator using Verilog HDL
+## 8-bit ALU Based Calculator using Verilog HDL
 
 ## Overview
 This project implements an **8-bit ALU based calculator** using **Verilog HDL**.
