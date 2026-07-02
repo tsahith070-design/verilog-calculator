@@ -4,7 +4,7 @@
 ## Overview
 This project implements an **8-bit ALU based calculator** using **Verilog HDL**.
 
-The design performs arithmetic and logical operations on two 8-bit operands. The result is updated only when the **equalto button** is pressed.
+The design performs arithmetic and logical operations on two 8-bit operands. The result is updated only when the **equalto button** is pressed
 
 The design was developed and verified using **Xilinx Vivado**.
 
