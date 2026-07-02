@@ -67,12 +67,6 @@ The design was developed and verified using **Xilinx Vivado**.
 
 ![Waveform](docs/waveform.png)
 
-## Future Improvements
-
-* Parameterized ALU
-* Overflow and carry flags
-* Accumulator mode
-* FPGA implementation
 
 
 B.Tech ECE, NIT Calicut
