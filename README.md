@@ -63,12 +63,9 @@ The design was developed and verified using **Xilinx Vivado**.
 * Verilog HDL
 * Xilinx Vivado
 
-## Simulation Waveform
-
-![Waveform](docs/Screenshot 2026-07-02 225943.png
-)
+## Simulation Output !
+[Simulation Waveform](Screenshot 2026-07-02 225943.png)
 
 
 
-B.Tech ECE, NIT Calicut
 
