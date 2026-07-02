@@ -65,7 +65,8 @@ The design was developed and verified using **Xilinx Vivado**.
 
 ## Simulation Waveform
 
-![Waveform](docs/waveform.png)
+![Waveform](docs/Screenshot 2026-07-02 225943.png
+)
 
 
 
