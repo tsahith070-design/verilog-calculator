@@ -1,23 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 27.06.2026 10:34:32
-// Design Name: 
-// Module Name: calculatorbasic
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 
 
 module calculatorbasic(input [7:0]A,input [7:0]B,input [2:0]OPERATION,input eqlto,input reset,output reg [15:0]RESULT,output reg sign_flag,output reg div_by_zero_flag
