@@ -3,7 +3,6 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 27.06.2026 11:47:30
 // Design Name: 
 // Module Name: calculator_tb
 // Project Name: 
